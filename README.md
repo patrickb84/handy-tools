@@ -70,3 +70,4 @@ https://1loc.dev/ - 206 Favorite JavaScript Utilities in single line of code! No
 
 [Audio visualisation with the Web Audio API and React - Twilio](https://www.twilio.com/blog/audio-visualisation-web-audio-api--react)
 
+[bvaughn/react-error-boundary](https://github.com/bvaughn/react-error-boundary?s=09)
